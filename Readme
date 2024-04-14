@@ -1,6 +1,6 @@
 Slightly edited Duke 3D Portmaster files from https://github.com/romadu/NBlood
 to work with the official expantion
-The main edits where made to the rednukem.cfg, port.json and gameinfo.xml.
+The main edits where made to the rednukem.cfg, port.json, gameinfo.xml and Duke Nukem 3D * .sh.
 
 changed images to match the expansions.
 
@@ -37,3 +37,7 @@ start
 1x down then B
 2x down then B
 1x up then B
+
+or edit the rednukem.cfg to the proper
+ScreenHeight = 480
+ScreenWidth = 640
