@@ -30,3 +30,10 @@ roms\ports\rednukem-dn3d-winter\gamedata\
 
 Thanks to Nukeykt for the Rednukem engine that makes this possible. Also thanks to romadu for the porting work for portmaster.
 https://github.com/nukeykt/NBlood
+
+Screen Issues Resolutions
+start
+2x down then B
+1x down then B
+2x down then B
+1x up then B
