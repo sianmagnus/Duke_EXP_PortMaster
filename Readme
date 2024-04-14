@@ -1,5 +1,8 @@
-Slightly edited Duke 3D Portmaster files to work with the official expantion
-from https://github.com/romadu/NBlood
+Slightly edited Duke 3D Portmaster files from https://github.com/romadu/NBlood
+to work with the official expantion
+The main edits where made to the rednukem.cfg, port.json and gameinfo.xml.
+
+changed images to match the expansions.
 
 Each of the expansion require atomic edition Duke 3D files names are case sensative
 all require DUKE3D.GRP and DUKE.RTS
