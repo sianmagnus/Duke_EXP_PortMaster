@@ -4,9 +4,26 @@ from https://github.com/romadu/NBlood
 Each of the expansion require atomic edition Duke 3D files names are case sensative
 all require DUKE3D.GRP and DUKE.RTS
 then the appropriate grp for each expansion
-NWINTER.GRP
-VACATION.GRP
 DUKEDC.GRP
+VACATION.GRP
+NWINTER.GRP
+
+Placed in the gamedata folder
+
+roms\ports\rednukem-dn3d-dc\gamedata\
+  DUKE3D.GRP
+  DUKE.RTS
+  DUKEDC.GRP
+
+roms\ports\rednukem-dn3d-vacation\gamedata\
+  DUKE3D.GRP
+  DUKE.RTS
+  VACATION.GRP
+
+roms\ports\rednukem-dn3d-winter\gamedata\
+  DUKE3D.GRP
+  DUKE.RTS
+  NWINTER.GRP
 
 Thanks to Nukeykt for the Rednukem engine that makes this possible. Also thanks to romadu for the porting work for portmaster.
 https://github.com/nukeykt/NBlood
