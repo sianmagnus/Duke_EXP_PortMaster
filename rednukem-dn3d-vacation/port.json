@@ -1,0 +1,29 @@
+{
+    "version": 2,
+    "name": "duke.nukem.3d.vacation.zip",
+    "items": [
+        "Duke Nukem 3D Vacation.sh",
+        "rednukem-dn3d-vacation/"
+    ],
+    "items_opt": null,
+    "attr": {
+        "title": "Duke Nukem 3D Caribbean Vacation",
+        "desc": "Duke Nukem 3D using the rednukem build open source port by Alexey Khokholov.",
+        "inst": "You'll need to add your own full version duke3d.grp, duke.rts and vacation.grp Duke Nukem 3D Atomic files to the ports/rednukem/gamedata folder.",
+        "genres": [
+            "fps",
+            "action"
+        ],
+        "porter": [
+            "romadu"
+        ],
+        "image": {},
+        "rtr": false,
+        "runtime": null,
+        "reqs": [],
+        "arch": [
+            "aarch64"
+        ],
+        "exp": false
+    }
+}

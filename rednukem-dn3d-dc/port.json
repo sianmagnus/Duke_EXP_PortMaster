@@ -1,0 +1,29 @@
+{
+    "version": 2,
+    "name": "duke.nukem.3d.dc.zip",
+    "items": [
+        "Duke Nukem 3D DC.sh",
+        "rednukem-dn3d-dc/"
+    ],
+    "items_opt": null,
+    "attr": {
+        "title": "Duke It Out In D.C.",
+        "desc": "Duke Nukem 3D using the rednukem build open source port by Alexey Khokholov.",
+        "inst": "You'll need to add your own full version duke3d.grp, duke.rts and dukedc.grp Duke Nukem 3D Atomic files to the ports/rednukem/gamedata folder.",
+        "genres": [
+            "fps",
+            "action"
+        ],
+        "porter": [
+            "romadu"
+        ],
+        "image": {},
+        "rtr": false,
+        "runtime": null,
+        "reqs": [],
+        "arch": [
+            "aarch64"
+        ],
+        "exp": false
+    }
+}

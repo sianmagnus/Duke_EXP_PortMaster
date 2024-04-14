@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gameList>
+  <game>
+    <path>./Duke Nukem 3D Vacation.sh</path>
+    <name>Duke Nukem 3D Caribean Vacation </name>
+    <desc>Duke Nukem is on vacation in the Caribbean to take a break from killing aliens. However, the aliens have decided that the Caribbean offers the perfect climate for a new breeding ground, so they begin laying eggs and terrorizing the local tourists. Angered that his rest and relaxation is being delayed, Duke Nukem sets out on a mission for retribution against the aliens who are interrupting his vacation.</desc>
+    <image>./rednukem-dn3d-vacation/cover.png</image>
+    <releasedate>19971231T000000</releasedate>
+    <developer>Sunstorm Interactive</developer>
+    <publisher>WizardWorks</publisher>
+    <genre>Shooter-Shooter / 1st person</genre>
+  </game>
+</gameList>

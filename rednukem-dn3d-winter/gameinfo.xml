@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gameList>
+  <game>
+    <path>./Duke Nukem 3D Winter.sh</path>
+    <name>Duke: Nuclear Winter </name>
+    <desc>Santa Claus has been captured and brainwashed by the aliens that Duke previously defeated. To make matters worse, the aliens are now supported by an enemy force calling themselves the Feminist Elven Militia. Duke Nukem must travel to the North Pole in order to stop the brainwashed Santa Claus and his manipulative captors. </desc>
+    <image>./rednukem-dn3d-winter/cover.png</image>
+    <releasedate>19971230T000000</releasedate>
+    <developer>Simply Silly Software</developer>
+    <publisher>WizardWorks</publisher>
+    <genre>Shooter-Shooter / 1st person</genre>
+  </game>
+</gameList>

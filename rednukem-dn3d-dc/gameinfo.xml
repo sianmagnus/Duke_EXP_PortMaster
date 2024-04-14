@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gameList>
+  <game>
+    <path>./Duke Nukem 3D DC.sh</path>
+    <name>Duke It Out In D.C. </name>
+    <desc>Aliens have crash-landed into the Capitol Building and have launched a massive invasion of Washington, D.C. Duke Nukem arrives to find that the alien invaders have captured several national monuments and critical government buildings, but in the end, Duke defeats the invading army and rescues the President from the Cycloid Emperor.</desc>
+    <image>./rednukem-dn3d-dc/cover.png</image>
+    <releasedate>19970317T000000</releasedate>
+    <developer>Sunstorm Interactive</developer>
+    <publisher>WizardWorks</publisher>
+    <genre>Shooter-Shooter / 1st person</genre>
+  </game>
+</gameList>
