@@ -1,1 +1,9 @@
 Slightly edited Duke 3D Portmaster files to work with the official expantion
+from https://github.com/romadu/NBlood
+
+Each of the expansion require atomic edition Duke 3D files names are case sensative
+all require DUKE3D.GRP and DUKE.RTS
+then the appropriate grp for each expansion
+NWINTER.GRP
+VACATION.GRP
+DUKEDC.GRP
